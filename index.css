@@ -1,0 +1,10 @@
+.image-placeholder {
+    width: 200px;
+    height: 200px;
+}
+
+.image-placeholder img {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
